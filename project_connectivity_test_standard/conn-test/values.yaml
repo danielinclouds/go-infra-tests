@@ -1,0 +1,4 @@
+
+virtualservice:
+  host:
+    fqdn: conn-test.172.17.255.1.nip.io
